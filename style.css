@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#selection {
+  position: absolute;
+  top: 2rem;
+  left: 5rem;
+  width: 30%;
+  height: 30px;
+}
+
+#labelmess {
+  position: absolute;
+  top: 5rem;
+  left: 5rem;
+}
